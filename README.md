@@ -1,1 +1,1 @@
-My first readme
+fisrt time coding
